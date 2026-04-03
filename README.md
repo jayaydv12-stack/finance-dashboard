@@ -32,8 +32,8 @@ https://finance-dashboard-one-zeta-19.vercel.app/
 - Add, edit, and delete transactions (Admin only)
 
 ### 👥 Role-Based UI
-- **Admin** — can view, add, edit, and delete transactions
-- **Viewer** — read-only access, no edit controls shown
+- **Admin** - can view, add, edit, and delete transactions
+- **Viewer** - read-only access, no edit controls shown
 - Switch roles using the dropdown in the header — no backend needed, fully simulated on the frontend
 
 ### 💡 Insights
@@ -47,7 +47,7 @@ https://finance-dashboard-one-zeta-19.vercel.app/
 ### 🌙 Additional Features
 - Dark mode toggle
 - Data persistence using localStorage (data survives page refresh)
-- Fully responsive — works on mobile, tablet, and desktop
+- Fully responsive - works on mobile, tablet, and desktop
 - Graceful empty state handling
 
 ---
@@ -56,9 +56,9 @@ https://finance-dashboard-one-zeta-19.vercel.app/
 
 - **React** (via Vite)
 - **Plain CSS-in-JS** (inline styles, no external UI library)
-- **Google Fonts** — DM Sans + DM Mono
+- **Google Fonts** - DM Sans + DM Mono
 - **localStorage** for data persistence
-- **React Hooks** — useState, useMemo, useEffect
+- **React Hooks** - useState, useMemo, useEffect
 
 ---
 
