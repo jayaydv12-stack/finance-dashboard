@@ -115,7 +115,7 @@ Role-based UI is handled purely on the frontend - the selected role is stored in
 
 ## 📝 Assumptions
 
-- All data is mock/static — no real backend or API calls
+- All data is mock/static - no real backend or API calls
 - Currency is in Indian Rupees (₹)
 - Roles are toggled via a dropdown for demonstration purposes
 - Data persists across page refreshes using localStorage
