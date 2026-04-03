@@ -105,11 +105,11 @@ finance-dashboard/
 
 ## 🧠 Approach
 
-I kept the entire dashboard in a single `App.jsx` component using React's built-in `useState` and `useMemo` hooks for state management — no external libraries like Redux or Zustand were needed given the scope of the project.
+I kept the entire dashboard in a single `App.jsx` component using React's built-in `useState` and `useMemo` hooks for state management - no external libraries like Redux or Zustand were needed given the scope of the project.
 
 Mock transaction data covers 3 months (Jan–Mar 2026) across multiple categories like Food, Transport, Shopping, Health, Entertainment, Utilities, Salary, Freelance, and Investment.
 
-Role-based UI is handled purely on the frontend — the selected role is stored in state and controls which UI elements (add/edit/delete buttons) are rendered. No authentication or backend is involved.
+Role-based UI is handled purely on the frontend - the selected role is stored in state and controls which UI elements (add/edit/delete buttons) are rendered. No authentication or backend is involved.
 
 ---
 
