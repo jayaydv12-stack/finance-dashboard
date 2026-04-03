@@ -34,7 +34,7 @@ https://finance-dashboard-one-zeta-19.vercel.app/
 ### 👥 Role-Based UI
 - **Admin** - can view, add, edit, and delete transactions
 - **Viewer** - read-only access, no edit controls shown
-- Switch roles using the dropdown in the header — no backend needed, fully simulated on the frontend
+- Switch roles using the dropdown in the header - no backend needed, fully simulated on the frontend
 
 ### 💡 Insights
 - Top spending category
