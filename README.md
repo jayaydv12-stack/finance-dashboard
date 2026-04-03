@@ -1,6 +1,6 @@
 # Finsight — Finance Dashboard UI
 
-A clean, interactive finance dashboard built as part of the Zorvyn Frontend Developer Intern screening assessment.
+A clean & interactive finance dashboard 
 
 ---
 
