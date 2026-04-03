@@ -1,4 +1,4 @@
-# Finsight — Finance Dashboard UI
+# Finsight: Finance Dashboard UI
 
 A clean & interactive finance dashboard 
 
